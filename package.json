@@ -9,9 +9,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^15.1.1",
     "@react-native-community/masked-view": "^0.1.11",
     "axios": "^1.12.2",
     "expo": "~53.0.22",
+    "expo-asset": "~11.1.7",
+    "expo-dev-client": "~5.2.4",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.5",
